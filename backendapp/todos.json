@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Work out",
+      "complete": true,
+      "date": "Sat Aug 9 2025",
+      "dateCompleted": "Thu Aug 21 2025"
+    },
+    {
+      "id": "2",
+      "text": "Practice guitar",
+      "complete": false,
+      "date": "Sat Aug 9 2025",
+      "dateCompleted": false
+    },
+    {
+      "id": "3",
+      "text": "Walk the dog",
+      "complete": false,
+      "date": "Sat Aug 9 2025",
+      "dateCompleted": false
+    },
+    {
+      "id": "4",
+      "text": "Read philosophy",
+      "complete": false,
+      "date": "Thu Aug 21 2025",
+      "dateCompleted": false
+    },
+    {
+      "id": "5",
+      "text": "Make ToDo List application in Vue.js",
+      "complete": true,
+      "date": "Thu Aug 21 2025",
+      "dateCompleted": "Thu Aug 21 2025"
+    }
+  ]
+}
