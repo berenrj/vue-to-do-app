@@ -35,7 +35,7 @@ export default {
     <div class="input-group">
         <!-- The input value of the form is bound to the text data variable -->
         <input v-model="text" type="text">
-        <button type="submit" class="btn btn-sm btn-secondary mx-2">Add ToDo</button>
+        <button type="submit" class="btn btn-sm btn-info mx-2">Add ToDo</button>
     </div>
 </form>
 </template>

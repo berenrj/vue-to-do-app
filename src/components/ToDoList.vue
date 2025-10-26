@@ -71,8 +71,8 @@ export default {
                         <th scope="row">{{ todo.text }}</th>
                         <td>{{ todo.dateCompleted }}</td>
                         <td>
-                            <button class="btn btn-sm btn-success" @click="$emit('toggle-complete', todo)">
-                                Incomplete
+                            <button class="btn btn-sm btn-secondary" @click="$emit('toggle-complete', todo)">
+                                Rework
                             </button>
                         </td>
                         <td>
